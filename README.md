@@ -1,44 +1,24 @@
-# C Programming: Basic to Advanced (GeeksforGeeks)
+# C Programming Practice (GeeksforGeeks)
 
-Welcome to my C programming practice repository! Here, I track my daily coding journey working through the complete **GeeksforGeeks C Programming track**, ranging from foundational syntax to advanced concepts and data structures.
-
----
-
-## 🎯 Objectives
-- Build strong fundamentals in low-level programming.
-- Solve and document daily practice problems.
-- Include working terminal outputs inside every source file.
+This repository contains my daily solutions and practice for the **GeeksforGeeks C Programming Track**, ranging from foundational syntax to advanced pointers, dynamic memory, and file input/output.
 
 ---
 
-## 📂 Curriculum / Progress
-
-### 🟢 1. Basic Programs
-- [x] Hello World (`Hello_World_Program.c`)
-- [x] Print Your Own Name (`Print_Your_Own_Name.c`)
-- [ ] Add Two Numbers
-- [ ] Check Even or Odd
-
-### 🟡 2. Control Flow & Loops
-- [ ] Prime Number Checker
-- [ ] Factorial of a Number
-- [ ] Fibonacci Series
-
-### 🟠 3. Functions & Recursion
-- [ ] Sum of Digits using Recursion
-- [ ] Power of a Number
-
-### 🔵 4. Arrays & Strings
-- [ ] Reverse an Array
-- [ ] String Palindrome Check
-
-### 🟣 5. Pointers & Memory Management
-- [ ] Swap Two Numbers using Pointers
-- [ ] Dynamic Memory Allocation (`malloc`, `free`)
+## 📌 Features
+- **Clean Structure:** One file per problem with self-contained logic.
+- **Output Included:** Every `.c` file has verified terminal output commented at the bottom.
+- **Tracked Progress:** Full topic checklist managed in the roadmap.
 
 ---
 
-## 💻 Environment & Tools
+## 🗺️ Curriculum & Progress
+View the complete list of topics and live completion checklist here:  
+👉 **[View Full Curriculum & Progress Roadmap](ROADMAP.md)**
+
+---
+
+## ⚙️ Environment & Setup
+- **OS:** Windows 10/11
 - **Compiler:** GCC (MinGW-w64)
 - **Editor:** Visual Studio Code
 - **Version Control:** Git & GitHub
