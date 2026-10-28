@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("GCC is working in VS Code!\n");
+    printf("hello world\n");
     return 0;
 }
