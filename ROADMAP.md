@@ -1,21 +1,21 @@
 # C Programming Practice Roadmap (GeeksforGeeks)
 
 ### 1. Basic C Programs
-- [x] [Hello World Program](Hello_World_Program.c)
-- [x] [Print Your Own Name](Print_Your_Own_Name.c)
-- [ ] Print an Integer Entered By the User
-- [ ] Add Two Numbers
-- [ ] Check Whether a Number is Prime or Not
-- [ ] Multiply two Floating-Point Numbers
-- [ ] Print the ASCII Value of a Character
-- [ ] Swap Two Numbers
-- [ ] Calculate Fahrenheit to Celsius
-- [ ] Find the Size of int, float, double, and char
-- [ ] Add Two Complex Numbers
-- [ ] Print Prime Numbers From 1 to N
-- [ ] Find Simple Interest
-- [ ] Find Compound Interest
-- [ ] Area And Perimeter Of Rectangle
+- [x] Hello World Program
+- [x] Print Your Own Name
+- [x] Print an Integer Entered By the User
+- [x] Add Two Numbers
+- [x] Check Whether a Number is Prime or Not
+- [x] Multiply two Floating-Point Numbers
+- [x] Print the ASCII Value of a Character
+- [x] Swap Two Numbers
+- [x] Calculate Fahrenheit to Celsius
+- [x] Find the Size of int, float, double, and char
+- [x] Add Two Complex Numbers
+- [x] Print Prime Numbers From 1 to N
+- [x] Find Simple Interest
+- [x] Find Compound Interest
+- [x] Area And Perimeter Of Rectangle
 
 ---
 
