@@ -20,11 +20,11 @@
 ---
 
 ### 2. Control Flow
-- [ ] Check Whether a Number is Positive, Negative, or Zero
-- [ ] Check Whether Number is Even or Odd
-- [ ] Check Whether a Character is Vowel or Consonant
-- [ ] Find Largest Number Among Three Numbers
-- [ ] Calculate Sum of Natural Numbers
+- [x] Check Whether a Number is Positive, Negative, or Zero
+- [x] Check Whether Number is Even or Odd
+- [x] Check Whether a Character is Vowel or Consonant
+- [x] Find Largest Number Among Three Numbers
+- [] Calculate Sum of Natural Numbers
 - [ ] Print Alphabets From A to Z Using Loop
 - [ ] Check Leap Year
 - [ ] Find Factorial of a Number
