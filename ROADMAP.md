@@ -24,12 +24,12 @@
 - [x] Check Whether Number is Even or Odd
 - [x] Check Whether a Character is Vowel or Consonant
 - [x] Find Largest Number Among Three Numbers
-- [] Calculate Sum of Natural Numbers
-- [ ] Print Alphabets From A to Z Using Loop
-- [ ] Check Leap Year
-- [ ] Find Factorial of a Number
-- [ ] Make a Simple Calculator
-- [ ] Generate Multiplication Table
+- [x] Calculate Sum of Natural Numbers
+- [x] Print Alphabets From A to Z Using Loop
+- [x] Check Leap Year
+- [x] Find Factorial of a Number
+- [x] Make a Simple Calculator
+- [x] Generate Multiplication Table
 - [ ] Print Fibonacci Series
 - [ ] Find LCM of Two Numbers
 - [ ] Check Armstrong Number
